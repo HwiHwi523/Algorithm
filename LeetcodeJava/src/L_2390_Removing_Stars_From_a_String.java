@@ -8,12 +8,12 @@ public class L_2390_Removing_Stars_From_a_String {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String s = br.readLine();
 
-        Solution solution = new Solution();
+        Solution2390 solution = new Solution2390();
         System.out.println(solution.removeStars(s));
     }
 }
 
-class Solution {
+class Solution2390 {
     public String removeStars(String s) {
         List<Character> stack = new ArrayList<>();
         for (char ch : s.toCharArray()) {
