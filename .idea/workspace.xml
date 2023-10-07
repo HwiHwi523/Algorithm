@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b9d2ae-2c11-49e5-9e45-05f7fb696b80" name="Changes" comment="[add] Stack">
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L1187/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L1361/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L1361/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L1766/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L23/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L23/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L239/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L239/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L2390/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L25/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L25/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L25/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L299/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L41/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L60/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L98/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L98/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L98/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L988/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetcodeJava/src/L988/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L2_Add_Two_Numbers/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeJava/src/L2/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L2_Add_Two_Numbers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeJava/src/L2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L2_Add_Two_Numbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeJava/src/L2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_1361_Validate_Binary_Tree_Nodes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_2390_Removing_Stars_From_a_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeJava/src/L2390/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_239_Sliding_Window_Maximum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_23_Merge_k_Sorted_Lists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_25_Reverse_Nodes_in_k_Group.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_299_Bulls_and_Cows.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeJava/src/L299/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_41_First_Missing_Positive.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeJava/src/L41/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_60_Permutation_Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeJava/src/L60/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_988_Smallest_String_Starting_From_Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeJava/src/L988/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L_98_Validate_Binary_Search_Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetcodeJava/src/L3/L20/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeJava/src/L3/L20/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +35,7 @@
     "last_opened_file_path": "/Users/hwihwi/Git/Algorithm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.L3.L20.Main">
     <configuration name="L15.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L15.Main" />
       <module name="Algorithm" />
@@ -95,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L5.Main" />
+    <configuration name="L20.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L20.Main" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L5.*" />
+          <option name="PATTERN" value="L20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L3.L20.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.L17.Main" />
         <item itemvalue="Application.L15.Main" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.L5.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696607278202</updated>
-      <workItem from="1696607279471" duration="14827000" />
+      <workItem from="1696607279471" duration="15920000" />
     </task>
     <task id="LOCAL-00001" summary="[add] Recursive">
       <created>1696693417798</created>
@@ -175,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696695331411</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[refactor] Directory">
+      <created>1696696282967</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696696282967</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[add] Stack">
+      <created>1696697288446</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696697288446</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[add] Recursive" />
+    <MESSAGE value="[refactor] Directory" />
     <MESSAGE value="[add] Stack" />
     <option name="LAST_COMMIT_MESSAGE" value="[add] Stack" />
   </component>
